@@ -1,0 +1,18 @@
+body {
+	height: 100vh;
+}
+
+div {
+	margin: 20vh;
+}
+
+p {
+	text-align: center;
+}
+
+#mot {
+}
+
+button {
+	font-size: 200%;
+}
