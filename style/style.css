@@ -1,18 +1,19 @@
+@font-face {
+    font-family: 'niagato';
+    src: url('fonts/niagato.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
-	height: 100vh;
+	margin-top: 10vh;
+	font-family: 'niagato', sans-serif;
+	text-align: center;
+	color: red;
+	font-size: 275%;
 }
 
 div {
 	margin: 20vh;
-}
-
-p {
-	text-align: center;
-}
-
-#mot {
-}
-
-button {
-	font-size: 200%;
+	font-size: 125%;
 }
